@@ -42,7 +42,4 @@ Mikasa-Bot whatsapp bot.
 <p align="center"><a href="https://youtu.be/XrK-hrfBQY4"> <img src="https://img.shields.io/badge/Clever cloud%20Deploy-red?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
 
 
- **THANKS TO** |[here]([https://github.com/Hakai0i)| 
-
-
 
