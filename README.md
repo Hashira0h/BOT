@@ -44,51 +44,11 @@ Mikasa-Bot whatsapp bot.
 
 1. If You don't have a account in Clever cloud. Create a account.
     <br>
-<p align="center"><a href="https://www.clever-cloud.com"> <img src="https://img.shields.io/badge/clever cloud%20Account-blue?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://www.clever-cloud.com"> <img src="https://img.shields.io/badge/clever cloud%20Account-black?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://youtu.be/XrK-hrfBQY4"> <img src="https://img.shields.io/badge/Clever cloud%20Deploy-blue?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
-
-
-
-#### DEPLOY TO RENDER (change Guru322 with your git username in line 41)
-
-1. If You don't have a account in Render. Create a account.
-    <br>
-<p align="center"><a href="https://www.render.com"> <img src="https://img.shields.io/badge/render%20Account-blue?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="center"><a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FGuru322%2FGURU-BOT"> <img src="https://img.shields.io/badge/Render%20Deploy-blue?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
-
-#### DEPLOY TO SCALINGO (NOT RECOMMENDED)
-
-1. If You don't have a account in Scalingo. Create a account.
-    <br>
-<p align="center"><a href="https://scalingo.com/"> <img src="https://img.shields.io/badge/Scalingo%20Account-blue?style=for-the-badge&logo=scalingo" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="center"><a href="https://youtu.be/WcA7GZuaN0A"> <img src="https://img.shields.io/badge/Scalingo%20Deploy-blue?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
-
-#### DEPLOY TO DOPRAX 
-
-1. If You don't have a account in Doprax. Create a account.
-    <br>
-<p align="center"><a href="https://doprax.com/"> <img src="https://img.shields.io/badge/doprax%20Account-blue?style=for-the-badge&logo=doprax" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="center"><a href="https://youtu.be/TNvH1cWlwNY"> <img src="https://img.shields.io/badge/doprax%20Deploy-blue?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
-
-
-
-3. SUPPORT GROUP: <a href="https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
-
-- Star ⭐ the repo if you like GURU-BOT.
-
-## BASE OG BY [BochilGaming](https://github.com/BochilGaming/games-wabot/tree/multi-device)
+<p align="center"><a href="https://youtu.be/XrK-hrfBQY4"> <img src="https://img.shields.io/badge/Clever cloud%20Deploy-black?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
 
 
  **THANKS TO** |[here](https://github.com/Guru322/GURU-BOT/#thanks-to) | 
