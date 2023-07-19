@@ -35,11 +35,11 @@ Mikasa-Bot whatsapp bot.
 
 1. If You don't have a account in Clever cloud. Create a account.
     <br>
-<p align="center"><a href="https://www.clever-cloud.com"> <img src="https://img.shields.io/badge/clever cloud%20Account-black?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://www.clever-cloud.com"> <img src="https://img.shields.io/badge/clever cloud%20Account-yellow?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://youtu.be/XrK-hrfBQY4"> <img src="https://img.shields.io/badge/Clever cloud%20Deploy-black?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://youtu.be/XrK-hrfBQY4"> <img src="https://img.shields.io/badge/Clever cloud%20Deploy-red?style=for-the-badge&logo=clever cloud" width="220" height="38.45"/></a></p>
 
 
  **THANKS TO** |[here](https://github.com/Guru322/GURU-BOT/#thanks-to) | 
