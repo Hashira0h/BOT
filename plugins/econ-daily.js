@@ -15,15 +15,15 @@ let handler = async (m, {conn, isPrems }) => {
     text += `*+${rewards[reward]}* ${global.rpg.emoticon(reward)}${reward}\n`
   }
   m.reply(`
-🎁 *daily reward*
+🎁 *الجائزه اليوميه*
 
-▢ *Has recieved:*
+▢ *لقد استلمت:*
  ${text}`)
   global.db.data.users[m.sender].lastclaim = new Date * 1
 }
 handler.help = ['daily', 'claim']
 handler.tags = ['xp']
-handler.command = /^(daily|claim)$/i
+handler.command = /^(daily|اليومي)$/i
 
 handler.cooldown = cooldown
 
