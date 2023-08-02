@@ -15,15 +15,15 @@ const rewards = {
     }
     //conn.sendButton(m.chat,'*––––––『 WEEKLY 』––––––*', text.trim(), null, [['Profile', ''], ['Monthly', '.monthly']],m)
     m.reply(`
-    🎁 *weekly reward*
+    🎁 *الجائزه الاسبوعية*
     
-    ▢ *Has recieved:*
+    ▢ *لقد استملت:*
      ${text}`)
     user.lastweekly = new Date * 1
   }
   handler.help = ['weekly']
   handler.tags = ['econ']
-  handler.command = /^(weekly)$/i
+  handler.command = /^(الاسبوعيه|الاسبوعية)$/i
   
   handler.cooldown = cooldown
   
